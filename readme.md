@@ -19,3 +19,11 @@ It is completely based on user input with only one modification to the code requ
 5) Tkinter
 6) Numpy
 7) os
+
+**To do**
+1) Error handling
+2) requirements.txt
+3) Add images/videos to show it works
+
+**Future ideas**
+1) Giving an user interface
