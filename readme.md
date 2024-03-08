@@ -32,7 +32,7 @@ the model provided is trained on the above dataset. It has a separate folder (se
 7) os
 
 **To do**
-1) Error handling
+1) ~~Error handling~~ done
 2) requirements.txt
 3) Add images/videos to show it works
 
